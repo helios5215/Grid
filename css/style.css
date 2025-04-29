@@ -32,5 +32,6 @@ body {
   
   .grid-peliculas img:hover {
     transform: scale(1.1);
+    border: white 1px solid;
   }
   
